@@ -110,5 +110,5 @@ It was built against a futures exchange P&L export in which Realized P&L already
 ## Author
 
 Den Mark T. Hernandez  
-GitHub: [denmark-codes](https://github.com/dmhernandez-codes)  
+GitHub: [dmhernandez-codes](https://github.com/dmhernandez-codes)  
 LinkedIn: [Den Mark Hernandez](https://www.linkedin.com/in/den-mark-hernandez-09110b450)
